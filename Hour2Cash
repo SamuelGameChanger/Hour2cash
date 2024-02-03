@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hour2Cash</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            text-align: center;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+        }
+        main {
+            padding: 20px;
+        }
+        h1 {
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 18px;
+            color: #555;
+        }
+        a {
+            text-decoration: none;
+            color: #fff;
+        }
+        button {
+            background-color: #4CAF50;
+            color: #fff;
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Hour2Cash</h1>
+    </header>
+    <main>
+        <p>Turn your time into cash with Hour2Cash! <a href="https://www.toprevenuegate.com/cu1qu382ap?key=fd8644680084b0f33ebfda3e383e4739" target="_blank">Join now</a> and start earning.</p>
+        <a href="https://www.toprevenuegate.com/cu1qu382ap?key=fd8644680084b0f33ebfda3e383e4739" target="_blank"><button>Get Started</button></a>
+    </main>
+    <footer>
+        <p>&copy; 2024 Hour2Cash. All rights reserved.</p>
+    </footer>
+</body>
+</html
